@@ -4,4 +4,5 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: sitemap.xml
+
+Sitemap: https://github.com/izalaragih182000/news/sitemap.xml
