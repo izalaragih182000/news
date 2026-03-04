@@ -5,4 +5,5 @@ User-agent: *
 Allow: /
 
 
-https://izalaragih182000.github.io/news/Sitemap: sitemap.xml
+https://izalaragih182000.github.io/news/sitemap.xml
+
